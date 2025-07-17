@@ -14,3 +14,4 @@ E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\refint\TimeCodeWinFo
 E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.pdb
 E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.genruntimeconfig.cache
 E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\ref\TimeCodeWinFormsApp1.dll
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.sourcelink.json

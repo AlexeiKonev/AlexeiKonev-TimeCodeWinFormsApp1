@@ -39,7 +39,7 @@
             // 
             btnBrowseInput.Location = new Point(438, 155);
             btnBrowseInput.Name = "btnBrowseInput";
-            btnBrowseInput.Size = new Size(75, 23);
+            btnBrowseInput.Size = new Size(140, 23);
             btnBrowseInput.TabIndex = 0;
             btnBrowseInput.Text = "btnBrowseInput";
             btnBrowseInput.UseVisualStyleBackColor = true;
@@ -49,7 +49,7 @@
             // 
             btnBrowseOutput.Location = new Point(438, 219);
             btnBrowseOutput.Name = "btnBrowseOutput";
-            btnBrowseOutput.Size = new Size(75, 23);
+            btnBrowseOutput.Size = new Size(140, 23);
             btnBrowseOutput.TabIndex = 1;
             btnBrowseOutput.Text = "btnBrowseOutput";
             btnBrowseOutput.UseVisualStyleBackColor = true;
