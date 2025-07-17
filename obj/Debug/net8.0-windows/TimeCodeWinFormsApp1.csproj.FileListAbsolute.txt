@@ -1,0 +1,16 @@
+E:\E\projects\TimeCodeWinFormsApp1\bin\Debug\net8.0-windows\TimeCodeWinFormsApp1.exe
+E:\E\projects\TimeCodeWinFormsApp1\bin\Debug\net8.0-windows\TimeCodeWinFormsApp1.deps.json
+E:\E\projects\TimeCodeWinFormsApp1\bin\Debug\net8.0-windows\TimeCodeWinFormsApp1.runtimeconfig.json
+E:\E\projects\TimeCodeWinFormsApp1\bin\Debug\net8.0-windows\TimeCodeWinFormsApp1.dll
+E:\E\projects\TimeCodeWinFormsApp1\bin\Debug\net8.0-windows\TimeCodeWinFormsApp1.pdb
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.Form1.resources
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.csproj.GenerateResource.cache
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.AssemblyInfoInputs.cache
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.AssemblyInfo.cs
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.csproj.CoreCompileInputs.cache
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.dll
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\refint\TimeCodeWinFormsApp1.dll
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.pdb
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\TimeCodeWinFormsApp1.genruntimeconfig.cache
+E:\E\projects\TimeCodeWinFormsApp1\obj\Debug\net8.0-windows\ref\TimeCodeWinFormsApp1.dll
