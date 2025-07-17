@@ -14,11 +14,9 @@
 
 
 3 выбираем входной файл  txt через кнопку btnBrowseInput
+<img width="800" height="481" alt="image" src="https://github.com/user-attachments/assets/ba60eb39-ea9d-4db5-8560-283b654ce7c3" />
 
 
 4  выбираем выходной файл txt через кнопку
 
- <img width="797" height="472" alt="image" src="https://github.com/user-attachments/assets/3ee1a4ac-e9f6-4ee9-8898-c119d4438cf4" />
-<img width="581" height="888" alt="image" src="https://github.com/user-attachments/assets/59f80f57-8c73-485d-b35b-aca384cd2df5" /><img width="385" height="769" alt="image" src="https://github.com/user-attachments/assets/ce010746-812a-4624-9a71-a489bf813820" />
-
-
+ 
